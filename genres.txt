@@ -1,0 +1,696 @@
+The Shawshank Redemption (1994)	Crime
+The Shawshank Redemption (1994)	Drama
+The Godfather (1972)	Crime
+The Godfather (1972)	Drama
+The Godfather: Part II (1974)	Crime
+The Godfather: Part II (1974)	Drama
+Pulp Fiction (1994)	Crime
+Pulp Fiction (1994)	Thriller
+Il buono, il brutto, il cattivo. (1966)	Adventure
+Il buono, il brutto, il cattivo. (1966)	Western
+12 Angry Men (1957)	Drama
+Schindler's List (1993)	Biography
+Schindler's List (1993)	Drama
+Schindler's List (1993)	History
+Schindler's List (1993)	War
+The Dark Knight (2008)	Action
+The Dark Knight (2008)	Crime
+The Dark Knight (2008)	Drama
+The Dark Knight (2008)	Thriller
+The Lord of the Rings: The Return of the King (2003)	Action
+The Lord of the Rings: The Return of the King (2003)	Adventure
+The Lord of the Rings: The Return of the King (2003)	Drama
+The Lord of the Rings: The Return of the King (2003)	Fantasy
+Fight Club (1999)	Drama
+One Flew Over the Cuckoo's Nest (1975)	Drama
+The Lord of the Rings: The Fellowship of the Ring (2001)	Action
+The Lord of the Rings: The Fellowship of the Ring (2001)	Adventure
+The Lord of the Rings: The Fellowship of the Ring (2001)	Fantasy
+Inception (2010)	Action
+Inception (2010)	Adventure
+Inception (2010)	Mystery
+Inception (2010)	Sci-Fi
+Inception (2010)	Thriller
+Goodfellas (1990)	Biography
+Goodfellas (1990)	Crime
+Goodfellas (1990)	Drama
+Goodfellas (1990)	Thriller
+Star Wars (1977)	Action
+Star Wars (1977)	Adventure
+Star Wars (1977)	Fantasy
+Star Wars (1977)	Sci-Fi
+Shichinin no samurai (1954)	Action
+Shichinin no samurai (1954)	Adventure
+Shichinin no samurai (1954)	Drama
+The Matrix (1999)	Action
+The Matrix (1999)	Adventure
+The Matrix (1999)	Sci-Fi
+Cidade de Deus (2002)	Crime
+Cidade de Deus (2002)	Drama
+Forrest Gump (1994)	Drama
+Forrest Gump (1994)	Romance
+The Dark Knight Rises (2012)	Action
+The Dark Knight Rises (2012)	Crime
+The Dark Knight Rises (2012)	Drama
+C'era una volta il West (1968)	Adventure
+C'era una volta il West (1968)	Western
+Casablanca (1942)	Drama
+Casablanca (1942)	Romance
+Casablanca (1942)	War
+The Lord of the Rings: The Two Towers (2002)	Action
+The Lord of the Rings: The Two Towers (2002)	Adventure
+The Lord of the Rings: The Two Towers (2002)	Fantasy
+The Silence of the Lambs (1991)	Thriller
+Se7en (1995)	Crime
+Se7en (1995)	Mystery
+Se7en (1995)	Thriller
+Raiders of the Lost Ark (1981)	Action
+Raiders of the Lost Ark (1981)	Adventure
+The Usual Suspects (1995)	Crime
+The Usual Suspects (1995)	Drama
+The Usual Suspects (1995)	Mystery
+The Usual Suspects (1995)	Thriller
+Rear Window (1954)	Mystery
+Rear Window (1954)	Thriller
+Psycho (1960)	Horror
+Psycho (1960)	Mystery
+Psycho (1960)	Thriller
+It's a Wonderful Life (1946)	Drama
+It's a Wonderful Life (1946)	Fantasy
+Sunset Blvd. (1950)	Drama
+Sunset Blvd. (1950)	Film-Noir
+Memento (2000)	Drama
+Memento (2000)	Mystery
+Memento (2000)	Thriller
+American History X (1998)	Crime
+American History X (1998)	Drama
+Apocalypse Now (1979)	Drama
+Apocalypse Now (1979)	War
+Terminator 2: Judgment Day (1991)	Action
+Terminator 2: Judgment Day (1991)	Sci-Fi
+Terminator 2: Judgment Day (1991)	Thriller
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)	Comedy
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)	Thriller
+Saving Private Ryan (1998)	Action
+Saving Private Ryan (1998)	Drama
+Saving Private Ryan (1998)	War
+North by Northwest (1959)	Adventure
+North by Northwest (1959)	Mystery
+North by Northwest (1959)	Romance
+North by Northwest (1959)	Thriller
+Alien (1979)	Horror
+Alien (1979)	Sci-Fi
+City Lights (1931)	Comedy
+City Lights (1931)	Drama
+City Lights (1931)	Romance
+Citizen Kane (1941)	Drama
+Citizen Kane (1941)	Mystery
+Sen to Chihiro no kamikakushi (2001)	Adventure
+Sen to Chihiro no kamikakushi (2001)	Animation
+Sen to Chihiro no kamikakushi (2001)	Family
+Sen to Chihiro no kamikakushi (2001)	Fantasy
+The Shining (1980)	Drama
+The Shining (1980)	Horror
+The Shining (1980)	Mystery
+American Beauty (1999)	Drama
+Taxi Driver (1976)	Drama
+Taxi Driver (1976)	Thriller
+Toy Story 3 (2010)	Adventure
+Toy Story 3 (2010)	Animation
+Toy Story 3 (2010)	Comedy
+Toy Story 3 (2010)	Family
+Toy Story 3 (2010)	Fantasy
+Vertigo (1958)	Mystery
+Vertigo (1958)	Romance
+Vertigo (1958)	Thriller
+Modern Times (1936)	Comedy
+Modern Times (1936)	Drama
+Modern Times (1936)	Romance
+The Pianist (2002)	Biography
+The Pianist (2002)	Drama
+The Pianist (2002)	History
+The Pianist (2002)	War
+The Departed (2006)	Crime
+The Departed (2006)	Drama
+The Departed (2006)	Mystery
+The Departed (2006)	Thriller
+M (1931)	Crime
+M (1931)	Drama
+M (1931)	Film-Noir
+M (1931)	Thriller
+Back to the Future (1985)	Adventure
+Back to the Future (1985)	Comedy
+Back to the Future (1985)	Sci-Fi
+Paths of Glory (1957)	Drama
+Paths of Glory (1957)	War
+Double Indemnity (1944)	Crime
+Double Indemnity (1944)	Drama
+Double Indemnity (1944)	Film-Noir
+Double Indemnity (1944)	Thriller
+Aliens (1986)	Action
+Aliens (1986)	Adventure
+Aliens (1986)	Sci-Fi
+Aliens (1986)	Thriller
+Das Leben der Anderen (2006)	Drama
+Das Leben der Anderen (2006)	Thriller
+A Clockwork Orange (1971)	Crime
+A Clockwork Orange (1971)	Drama
+A Clockwork Orange (1971)	Sci-Fi
+To Kill a Mockingbird (1962)	Crime
+To Kill a Mockingbird (1962)	Drama
+To Kill a Mockingbird (1962)	Mystery
+Lawrence of Arabia (1962)	Adventure
+Lawrence of Arabia (1962)	Biography
+Lawrence of Arabia (1962)	Drama
+Lawrence of Arabia (1962)	History
+Lawrence of Arabia (1962)	War
+The Avengers (2012)	Action
+The Avengers (2012)	Sci-Fi
+Gladiator (2000)	Action
+Gladiator (2000)	Adventure
+Gladiator (2000)	Drama
+Reservoir Dogs (1992)	Crime
+Reservoir Dogs (1992)	Mystery
+Reservoir Dogs (1992)	Thriller
+The Prestige (2006)	Drama
+The Prestige (2006)	Mystery
+The Prestige (2006)	Thriller
+The Green Mile (1999)	Crime
+The Green Mile (1999)	Drama
+The Green Mile (1999)	Fantasy
+The Green Mile (1999)	Mystery
+The Great Dictator (1940)	Comedy
+The Great Dictator (1940)	Drama
+The Great Dictator (1940)	War
+Das Boot (1981)	Action
+Das Boot (1981)	Adventure
+Das Boot (1981)	Drama
+Das Boot (1981)	History
+Das Boot (1981)	War
+Requiem for a Dream (2000)	Drama
+The Third Man (1949)	Film-Noir
+The Third Man (1949)	Mystery
+The Third Man (1949)	Thriller
+Eternal Sunshine of the Spotless Mind (2004)	Drama
+Eternal Sunshine of the Spotless Mind (2004)	Romance
+Eternal Sunshine of the Spotless Mind (2004)	Sci-Fi
+The Treasure of the Sierra Madre (1948)	Action
+The Treasure of the Sierra Madre (1948)	Adventure
+The Treasure of the Sierra Madre (1948)	Drama
+The Treasure of the Sierra Madre (1948)	Western
+Chinatown (1974)	Crime
+Chinatown (1974)	Drama
+Chinatown (1974)	Mystery
+Chinatown (1974)	Thriller
+Nuovo Cinema Paradiso (1988)	Drama
+L.A. Confidential (1997)	Crime
+L.A. Confidential (1997)	Drama
+L.A. Confidential (1997)	Mystery
+L.A. Confidential (1997)	Thriller
+Intouchables (2011)	Comedy
+Intouchables (2011)	Drama
+Once Upon a Time in America (1984)	Crime
+Once Upon a Time in America (1984)	Drama
+Full Metal Jacket (1987)	Drama
+Full Metal Jacket (1987)	War
+Monty Python and the Holy Grail (1975)	Adventure
+Monty Python and the Holy Grail (1975)	Comedy
+Braveheart (1995)	Action
+Braveheart (1995)	Biography
+Braveheart (1995)	Drama
+Braveheart (1995)	History
+Braveheart (1995)	War
+Some Like It Hot (1959)	Comedy
+Singin' in the Rain (1952)	Comedy
+Singin' in the Rain (1952)	Musical
+Singin' in the Rain (1952)	Romance
+The Lion King (1994)	Adventure
+The Lion King (1994)	Animation
+The Lion King (1994)	Comedy
+The Lion King (1994)	Drama
+The Lion King (1994)	Family
+The Lion King (1994)	Musical
+Oldeuboi (2003)	Drama
+Oldeuboi (2003)	Mystery
+Oldeuboi (2003)	Thriller
+Amadeus (1984)	Biography
+Amadeus (1984)	Drama
+Amadeus (1984)	Music
+Metropolis (1927)	Drama
+Metropolis (1927)	Sci-Fi
+Ladri di biciclette (1948)	Crime
+Ladri di biciclette (1948)	Drama
+All About Eve (1950)	Drama
+Raging Bull (1980)	Biography
+Raging Bull (1980)	Drama
+Raging Bull (1980)	Sport
+Unforgiven (1992)	Western
+The Apartment (1960)	Comedy
+The Apartment (1960)	Drama
+The Apartment (1960)	Romance
+The Bridge on the River Kwai (1957)	Adventure
+The Bridge on the River Kwai (1957)	Drama
+The Bridge on the River Kwai (1957)	History
+The Bridge on the River Kwai (1957)	War
+2001: A Space Odyssey (1968)	Adventure
+2001: A Space Odyssey (1968)	Sci-Fi
+The Sting (1973)	Comedy
+The Sting (1973)	Crime
+The Sting (1973)	Drama
+Indiana Jones and the Last Crusade (1989)	Action
+Indiana Jones and the Last Crusade (1989)	Adventure
+Jodaeiye Nader az Simin (2011)	Drama
+El laberinto del fauno (2006)	Drama
+El laberinto del fauno (2006)	Fantasy
+El laberinto del fauno (2006)	War
+Die Hard (1988)	Action
+Der Untergang (2004)	Biography
+Der Untergang (2004)	Drama
+Der Untergang (2004)	History
+Der Untergang (2004)	War
+Witness for the Prosecution (1957)	Crime
+Witness for the Prosecution (1957)	Drama
+Witness for the Prosecution (1957)	Film-Noir
+Witness for the Prosecution (1957)	Mystery
+Witness for the Prosecution (1957)	Thriller
+Mr. Smith Goes to Washington (1939)	Comedy
+Mr. Smith Goes to Washington (1939)	Drama
+Batman Begins (2005)	Action
+Batman Begins (2005)	Adventure
+Batman Begins (2005)	Drama
+Batman Begins (2005)	Fantasy
+Inglourious Basterds (2009)	Adventure
+Inglourious Basterds (2009)	Drama
+Inglourious Basterds (2009)	War
+The Great Escape (1963)	Adventure
+The Great Escape (1963)	Drama
+The Great Escape (1963)	History
+The Great Escape (1963)	War
+Hotaru no haka (1988)	Animation
+Hotaru no haka (1988)	Drama
+Hotaru no haka (1988)	War
+Up (2009)	Adventure
+Up (2009)	Animation
+Up (2009)	Comedy
+Up (2009)	Drama
+Up (2009)	Family
+Up (2009)	Fantasy
+The Elephant Man (1980)	Biography
+The Elephant Man (1980)	Drama
+On the Waterfront (1954)	Crime
+On the Waterfront (1954)	Drama
+Snatch. (2000)	Crime
+Snatch. (2000)	Thriller
+Det sjunde inseglet (1957)	Drama
+Det sjunde inseglet (1957)	Fantasy
+The Maltese Falcon (1941)	Crime
+The Maltese Falcon (1941)	Drama
+The Maltese Falcon (1941)	Film-Noir
+The Maltese Falcon (1941)	Mystery
+The Maltese Falcon (1941)	Thriller
+Heat (1995)	Action
+Heat (1995)	Crime
+Heat (1995)	Drama
+Heat (1995)	Thriller
+Gran Torino (2008)	Drama
+Rebecca (1940)	Drama
+Rebecca (1940)	Mystery
+Rebecca (1940)	Romance
+Rebecca (1940)	Thriller
+The General (1926)	Action
+The General (1926)	Adventure
+The General (1926)	Comedy
+The General (1926)	Romance
+The General (1926)	War
+Toy Story (1995)	Adventure
+Toy Story (1995)	Animation
+Toy Story (1995)	Comedy
+Toy Story (1995)	Family
+Toy Story (1995)	Fantasy
+Blade Runner (1982)	Drama
+Blade Runner (1982)	Sci-Fi
+Blade Runner (1982)	Thriller
+Fargo (1996)	Crime
+Fargo (1996)	Drama
+Fargo (1996)	Thriller
+Touch of Evil (1958)	Crime
+Touch of Evil (1958)	Film-Noir
+Touch of Evil (1958)	Thriller
+The Big Lebowski (1998)	Comedy
+The Big Lebowski (1998)	Crime
+The Kid (1921)	Comedy
+The Kid (1921)	Drama
+The Kid (1921)	Family
+Ran (1985)	Action
+Ran (1985)	Drama
+Ran (1985)	War
+Scarface (1983)	Crime
+Scarface (1983)	Drama
+Scarface (1983)	Thriller
+Cool Hand Luke (1967)	Crime
+Cool Hand Luke (1967)	Drama
+Sin City (2005)	Crime
+Sin City (2005)	Thriller
+The Deer Hunter (1978)	Drama
+The Deer Hunter (1978)	War
+Strangers on a Train (1951)	Crime
+Strangers on a Train (1951)	Film-Noir
+Strangers on a Train (1951)	Mystery
+Strangers on a Train (1951)	Romance
+Strangers on a Train (1951)	Thriller
+Jaws (1975)	Thriller
+The Gold Rush (1925)	Adventure
+The Gold Rush (1925)	Comedy
+The Gold Rush (1925)	Family
+The Gold Rush (1925)	Romance
+The Gold Rush (1925)	Western
+No Country for Old Men (2007)	Crime
+No Country for Old Men (2007)	Drama
+No Country for Old Men (2007)	Thriller
+It Happened One Night (1934)	Comedy
+It Happened One Night (1934)	Romance
+Hotel Rwanda (2004)	Biography
+Hotel Rwanda (2004)	Drama
+Hotel Rwanda (2004)	History
+Hotel Rwanda (2004)	War
+High Noon (1952)	Drama
+High Noon (1952)	Western
+The Sixth Sense (1999)	Drama
+The Sixth Sense (1999)	Mystery
+The Sixth Sense (1999)	Thriller
+Platoon (1986)	Action
+Platoon (1986)	Drama
+Platoon (1986)	War
+Butch Cassidy and the Sundance Kid (1969)	Adventure
+Butch Cassidy and the Sundance Kid (1969)	Biography
+Butch Cassidy and the Sundance Kid (1969)	Crime
+Butch Cassidy and the Sundance Kid (1969)	Western
+Lock, Stock and Two Smoking Barrels (1998)	Crime
+Lock, Stock and Two Smoking Barrels (1998)	Thriller
+The Wizard of Oz (1939)	Adventure
+The Wizard of Oz (1939)	Family
+The Wizard of Oz (1939)	Fantasy
+The Wizard of Oz (1939)	Musical
+The Thing (1982)	Horror
+The Thing (1982)	Mystery
+The Thing (1982)	Sci-Fi
+The Thing (1982)	Thriller
+Notorious (1946)	Film-Noir
+Notorious (1946)	Romance
+Notorious (1946)	Thriller
+Kill Bill: Vol. 1 (2003)	Action
+Kill Bill: Vol. 1 (2003)	Crime
+Kill Bill: Vol. 1 (2003)	Thriller
+Trainspotting (1996)	Crime
+Trainspotting (1996)	Drama
+Annie Hall (1977)	Comedy
+Annie Hall (1977)	Drama
+Annie Hall (1977)	Romance
+The King's Speech (2010)	Biography
+The King's Speech (2010)	Drama
+The King's Speech (2010)	History
+Casino (1995)	Biography
+Casino (1995)	Crime
+Casino (1995)	Drama
+Warrior (2011/I)	Action
+Warrior (2011/I)	Drama
+Warrior (2011/I)	Sport
+El secreto de sus ojos (2009)	Drama
+El secreto de sus ojos (2009)	Mystery
+El secreto de sus ojos (2009)	Thriller
+The Grapes of Wrath (1940)	Drama
+Black Swan (2010)	Drama
+Black Swan (2010)	Mystery
+Black Swan (2010)	Thriller
+Gone with the Wind (1939)	Drama
+Gone with the Wind (1939)	Romance
+Gone with the Wind (1939)	War
+Into the Wild (2007)	Adventure
+Into the Wild (2007)	Biography
+Into the Wild (2007)	Drama
+Life of Brian (1979)	Comedy
+Good Will Hunting (1997)	Drama
+The Big Sleep (1946)	Crime
+The Big Sleep (1946)	Film-Noir
+The Big Sleep (1946)	Mystery
+The Big Sleep (1946)	Thriller
+Donnie Darko (2001)	Drama
+Donnie Darko (2001)	Mystery
+Donnie Darko (2001)	Sci-Fi
+How to Train Your Dragon (2010)	Adventure
+How to Train Your Dragon (2010)	Animation
+How to Train Your Dragon (2010)	Comedy
+How to Train Your Dragon (2010)	Drama
+How to Train Your Dragon (2010)	Family
+How to Train Your Dragon (2010)	Fantasy
+Ben-Hur (1959)	Action
+Ben-Hur (1959)	Adventure
+Ben-Hur (1959)	Drama
+Ben-Hur (1959)	History
+Ben-Hur (1959)	Romance
+Finding Nemo (2003)	Adventure
+Finding Nemo (2003)	Animation
+Finding Nemo (2003)	Comedy
+Finding Nemo (2003)	Family
+Network (1976)	Drama
+V for Vendetta (2005)	Action
+V for Vendetta (2005)	Sci-Fi
+V for Vendetta (2005)	Thriller
+The Terminator (1984)	Action
+The Terminator (1984)	Sci-Fi
+The Night of the Hunter (1955)	Drama
+The Night of the Hunter (1955)	Film-Noir
+The Night of the Hunter (1955)	Thriller
+Million Dollar Baby (2004)	Drama
+Million Dollar Baby (2004)	Sport
+Stand by Me (1986)	Adventure
+Stand by Me (1986)	Drama
+Dial M for Murder (1954)	Crime
+Dial M for Murder (1954)	Mystery
+Dial M for Murder (1954)	Thriller
+Tonari no Totoro (1988)	Adventure
+Tonari no Totoro (1988)	Animation
+Tonari no Totoro (1988)	Family
+Tonari no Totoro (1988)	Fantasy
+Groundhog Day (1993)	Comedy
+Groundhog Day (1993)	Drama
+Groundhog Day (1993)	Fantasy
+Groundhog Day (1993)	Romance
+There Will Be Blood (2007)	Drama
+Dog Day Afternoon (1975)	Crime
+Dog Day Afternoon (1975)	Drama
+Dog Day Afternoon (1975)	Thriller
+The Artist (2011/I)	Comedy
+The Artist (2011/I)	Drama
+The Artist (2011/I)	Romance
+Twelve Monkeys (1995)	Mystery
+Twelve Monkeys (1995)	Sci-Fi
+Twelve Monkeys (1995)	Thriller
+Amores perros (2000)	Drama
+Amores perros (2000)	Thriller
+The Graduate (1967)	Comedy
+The Graduate (1967)	Drama
+The Graduate (1967)	Romance
+The Bourne Ultimatum (2007)	Action
+The Bourne Ultimatum (2007)	Crime
+The Bourne Ultimatum (2007)	Thriller
+Gandhi (1982)	Biography
+Gandhi (1982)	Drama
+Gandhi (1982)	History
+Mary and Max (2009)	Animation
+Mary and Max (2009)	Comedy
+Mary and Max (2009)	Drama
+Slumdog Millionaire (2008)	Drama
+Slumdog Millionaire (2008)	Romance
+Slumdog Millionaire (2008)	Thriller
+Les quatre cents coups (1959)	Crime
+Les quatre cents coups (1959)	Drama
+The Killing (1956)	Crime
+The Killing (1956)	Film-Noir
+The Killing (1956)	Thriller
+Persona (1966)	Drama
+Persona (1966)	Fantasy
+The Princess Bride (1987)	Adventure
+The Princess Bride (1987)	Comedy
+The Princess Bride (1987)	Family
+The Princess Bride (1987)	Fantasy
+The Princess Bride (1987)	Romance
+The Manchurian Candidate (1962)	Drama
+The Manchurian Candidate (1962)	Mystery
+The Manchurian Candidate (1962)	Romance
+The Manchurian Candidate (1962)	Thriller
+The Manchurian Candidate (1962)	War
+Who's Afraid of Virginia Woolf? (1966)	Drama
+Hauru no ugoku shiro (2004)	Action
+Hauru no ugoku shiro (2004)	Adventure
+Hauru no ugoku shiro (2004)	Animation
+Hauru no ugoku shiro (2004)	Fantasy
+Hauru no ugoku shiro (2004)	Romance
+La strada (1954)	Drama
+The Hustler (1961)	Drama
+The Hustler (1961)	Sport
+Stalag 17 (1953)	Comedy
+Stalag 17 (1953)	Drama
+Stalag 17 (1953)	Thriller
+Stalag 17 (1953)	War
+District 9 (2009)	Action
+District 9 (2009)	Sci-Fi
+District 9 (2009)	Thriller
+The Wild Bunch (1969)	Western
+Rocky (1976)	Action
+Rocky (1976)	Action
+Rocky (1976)	Drama
+Rocky (1976)	Drama
+Rocky (1976)	Romance
+Rocky (1976)	Sport
+The Exorcist (1973)	Horror
+The Exorcist (1973)	Thriller
+A Beautiful Mind (2001)	Biography
+A Beautiful Mind (2001)	Drama
+Rope (1948)	Crime
+Rope (1948)	Drama
+Rope (1948)	Mystery
+Rope (1948)	Thriller
+Barry Lyndon (1975)	Adventure
+Barry Lyndon (1975)	Drama
+Barry Lyndon (1975)	Romance
+Barry Lyndon (1975)	War
+Stalker (1979)	Adventure
+Stalker (1979)	Drama
+Stalker (1979)	Fantasy
+Stalker (1979)	Mystery
+Stalker (1979)	Sci-Fi
+The Man Who Shot Liberty Valance (1962)	Drama
+The Man Who Shot Liberty Valance (1962)	Romance
+The Man Who Shot Liberty Valance (1962)	Western
+Ratatouille (2007)	Animation
+Ratatouille (2007)	Comedy
+Ratatouille (2007)	Family
+Ratatouille (2007)	Fantasy
+Mou gaan dou (2002)	Crime
+Mou gaan dou (2002)	Mystery
+Mou gaan dou (2002)	Thriller
+Roman Holiday (1953)	Comedy
+Roman Holiday (1953)	Drama
+Roman Holiday (1953)	Romance
+Le scaphandre et le papillon (2007)	Biography
+Le scaphandre et le papillon (2007)	Drama
+A Streetcar Named Desire (1951)	Drama
+The Truman Show (1998)	Comedy
+The Truman Show (1998)	Drama
+The Truman Show (1998)	Sci-Fi
+Harry Potter and the Deathly Hallows: Part 2 (2011)	Adventure
+Harry Potter and the Deathly Hallows: Part 2 (2011)	Drama
+Harry Potter and the Deathly Hallows: Part 2 (2011)	Fantasy
+Harry Potter and the Deathly Hallows: Part 2 (2011)	Mystery
+The Wrestler (2008)	Drama
+The Wrestler (2008)	Romance
+The Wrestler (2008)	Sport
+Yip Man (2008)	Action
+Yip Man (2008)	Biography
+Yip Man (2008)	Drama
+Yip Man (2008)	History
+Star Trek (2009)	Action
+Star Trek (2009)	Adventure
+Star Trek (2009)	Sci-Fi
+Pirates of the Caribbean: The Curse of the Black Pearl (2003)	Action
+Pirates of the Caribbean: The Curse of the Black Pearl (2003)	Adventure
+Pirates of the Caribbean: The Curse of the Black Pearl (2003)	Fantasy
+Harvey (1950)	Comedy
+Harvey (1950)	Drama
+Harvey (1950)	Fantasy
+Rosemary's Baby (1968)	Drama
+Rosemary's Baby (1968)	Horror
+Rosemary's Baby (1968)	Mystery
+Beauty and the Beast (1991)	Animation
+Beauty and the Beast (1991)	Family
+Beauty and the Beast (1991)	Fantasy
+Beauty and the Beast (1991)	Musical
+Beauty and the Beast (1991)	Romance
+Per un pugno di dollari (1964)	Action
+Per un pugno di dollari (1964)	Western
+Bringing Up Baby (1938)	Comedy
+Bringing Up Baby (1938)	Romance
+Monsters, Inc. (2001)	Adventure
+Monsters, Inc. (2001)	Animation
+Monsters, Inc. (2001)	Comedy
+Monsters, Inc. (2001)	Family
+Monsters, Inc. (2001)	Fantasy
+Nosferatu, eine Symphonie des Grauens (1922)	Horror
+Nosferatu, eine Symphonie des Grauens (1922)	Mystery
+Nosferatu, eine Symphonie des Grauens (1922)	Romance
+In the Name of the Father (1993)	Biography
+In the Name of the Father (1993)	Drama
+In the Name of the Father (1993)	Thriller
+All Quiet on the Western Front (1930)	Drama
+All Quiet on the Western Front (1930)	War
+Shadow of a Doubt (1943)	Crime
+Shadow of a Doubt (1943)	Film-Noir
+Shadow of a Doubt (1943)	Mystery
+Shadow of a Doubt (1943)	Thriller
+Bom yeoreum gaeul gyeoul geurigo bom (2003)	Drama
+Manhattan (1979)	Comedy
+Manhattan (1979)	Drama
+Manhattan (1979)	Romance
+Kaze no tani no Naushika (1984)	Action
+Kaze no tani no Naushika (1984)	Adventure
+Kaze no tani no Naushika (1984)	Animation
+Kaze no tani no Naushika (1984)	Fantasy
+Kaze no tani no Naushika (1984)	Sci-Fi
+Mystic River (2003)	Crime
+Mystic River (2003)	Drama
+Mystic River (2003)	Mystery
+Mystic River (2003)	Thriller
+Rain Man (1988)	Drama
+La haine (1995)	Drama
+Shutter Island (2010)	Drama
+Shutter Island (2010)	Mystery
+Shutter Island (2010)	Thriller
+La dolce vita (1960)	Comedy
+La dolce vita (1960)	Drama
+Big Fish (2003)	Adventure
+Big Fish (2003)	Drama
+Big Fish (2003)	Fantasy
+Big Fish (2003)	Mystery
+In the Heat of the Night (1967)	Crime
+In the Heat of the Night (1967)	Drama
+In the Heat of the Night (1967)	Mystery
+In the Heat of the Night (1967)	Thriller
+Arsenic and Old Lace (1944)	Comedy
+Arsenic and Old Lace (1944)	Crime
+Arsenic and Old Lace (1944)	Romance
+Rio Bravo (1959)	Drama
+Rio Bravo (1959)	Romance
+Rio Bravo (1959)	Western
+The Searchers (1956)	Adventure
+The Searchers (1956)	Western
+Ed Wood (1994)	Biography
+Ed Wood (1994)	Comedy
+Ed Wood (1994)	Drama
+His Girl Friday (1940)	Comedy
+His Girl Friday (1940)	Drama
+His Girl Friday (1940)	Romance
+The Untouchables (1987)	Biography
+The Untouchables (1987)	Crime
+The Untouchables (1987)	Drama
+The Untouchables (1987)	History
+The Untouchables (1987)	Thriller
+Patton (1970)	Biography
+Patton (1970)	Drama
+Patton (1970)	History
+Patton (1970)	War
+King Kong (1933)	Adventure
+King Kong (1933)	Adventure
+King Kong (1933)	Fantasy
+King Kong (1933)	Horror
+Fa yeung nin wa (2000)	Drama
+Fa yeung nin wa (2000)	Romance
+The Philadelphia Story (1940)	Comedy
+The Philadelphia Story (1940)	Romance
+Papillon (1973)	Biography
+Papillon (1973)	Crime
+Papillon (1973)	Drama
+The Nightmare Before Christmas (1993)	Animation
+The Nightmare Before Christmas (1993)	Family
+The Nightmare Before Christmas (1993)	Fantasy
+The Nightmare Before Christmas (1993)	Musical

@@ -32,17 +32,15 @@ if ($user) {
   <body style="margin:0;">
 	    <div class="container-fluid">
 			<div class="row-fluid">
-				<div class="span2">
+				<div class="span2" style="overflow:auto; height:650px; position:relative;">
 				<!--Sidebar content-->
 					<div style="position:relative;">
 						<?php 
 						if ($user_friends) { 
-							$count=0; 
+							//$count=0; 
 							foreach($user_friends['data'] as $friend) {
-								if($count>15)
-								break;
-								$fql = 'SELECT online_presence FROM user WHERE uid='.$friend['id'];
-								$color='red';
+								//if($count>15)
+								//break;
 						?>
 							<div style=" cursor:pointer; background-image:url('https://graph.facebook.com/<?php echo $friend['id'];?>/picture'); width:50px; height:50px; float:left; padding:0;" class="btn" onClick="getFriends('<?php echo $friend['id'];?>')"></div>
 							<div style="width:100px; height:50px; padding:0; float:left;" onClick="getFriends('<?php echo $friend['id'];?>')" class="btn" ><?php echo $friend['name'];?></div>
@@ -53,8 +51,8 @@ if ($user) {
 			
 				<div class="span10">
 				<!--Body content-->
-				<div id="friend-news"></div>
 				<div id="friend-photo"></div>
+				<div id="friend-news"></div>
 				<span id="friend-likes"></span>
 				</div>
 			</div>
@@ -93,14 +91,23 @@ if ($user) {
 				var i=0;
 				console.log(likes_response);
 				if(likes_response.data[i])
-				document.getElementById('friend-likes').innerHTML=likes_response.data[i].name;
-				while(likes_response.data[i])
+				/*while(likes_response.data[i])
 				{
 					document.getElementById('friend-likes').innerHTML+=','+likes_response.data[i].name;
 					i++;
-			    }
-				$.get("uid_likes.php", { uid: friend_id},function(data){document.getElementById('friend-photo').innerHTML=" "; document.getElementById('friend-photo').innerHTML+=data;});
-				$.get("getnews.php", { q: likes_response.data[0].name},function(data){document.getElementById('friend-news').innerHTML=" "; document.getElementById('friend-news').innerHTML+=data;});
+			    }*/
+				$.get("uid_likes.php", { uid: friend_id},function(resp) {
+					document.getElementById('friend-photo').innerHTML=" "; document.getElementById('friend-photo').innerHTML+=resp;
+				
+					$.get("getnews.php", { q: $("#sport-text").html() },function(data) {
+						var retObj=JSON.parse(data);
+						var resultArr=retObj.query.results.bossresponse.news.results.result;
+						//var dispTxt='<a target="_blank" href="'+resultArr[0].url+'>'+resultArr[0].title+'</a><p>resultArr[0].abstract</p>"';
+						//$("#sport-text").append('<a target="_blank" href="'+resultArr[0].url+'>'+resultArr[0].title+'</a><p>resultArr[0].abstract</p>"');
+						document.getElementById('friend-news').innerHTML='<a target="_blank" href="'+resultArr[0].url+'">'+resultArr[0].title+'</a><p>'+resultArr[0].abstract+'</p>';
+						//document.getElementById('friend-news').innerHTML=dispTxt;
+					});
+				});
 			});
 		}
 	</script>

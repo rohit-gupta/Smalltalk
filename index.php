@@ -32,7 +32,7 @@
 			<h1>SmallTalk</h1>
 			<p>SmallTalk lets you to chat more meaningfully with your Facebook Friends by informing you of the latest news on their favourite topics.</p>
 			<p>
-				<a class="btn btn-primary btn-large" onclick="getFriends()">
+				<a class="btn btn-primary btn-large" href="pureserver.php">
 				Try Small Talk
 				</a>
 				<div id="fb-root"></div>
